@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Political Risk Isurnace for Oil and Gas"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - hoobies.qmd
+
+format:
+  html:
+    theme: journal
+    mainfont: 2rem
+    fontcolor: "#218309"
+    linkcolor: "#0C97BF"
+    monofont: times new roman
+    css: styles.css
+    toc: true
+
+
+

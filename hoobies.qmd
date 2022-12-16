@@ -1,0 +1,6 @@
+---
+title: "Hobbies"
+editor: visual
+---
+
+I like to snowboard, play with my dogs, and read.
