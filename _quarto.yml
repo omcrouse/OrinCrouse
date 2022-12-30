@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: cosmo
     mainfont: 2rem
     fontcolor: "#218309"
     linkcolor: "#0C97BF"
